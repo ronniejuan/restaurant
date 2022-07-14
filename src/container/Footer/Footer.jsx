@@ -7,8 +7,8 @@ import './Footer.css';
 
 const Footer = () => (
   <div className="app__footer section__padding" id="login">
-    <FooterOverlay />
-    <Newsletter />
+    {/* <FooterOverlay />
+    <Newsletter /> */}
 
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
@@ -39,7 +39,7 @@ const Footer = () => (
     </div>
 
     <div className="footer__copyright">
-      <p className="p__opensans">2021 Gericht. All Rights reserved.</p>
+      <p className="p__opensans">2022 G. All Rights reserved.</p>
     </div>
 
   </div>

@@ -3,7 +3,7 @@ import images from './images';
 const wines = [
   {
     title: 'Chapel Hill Shiraz',
-    price: '€12',
+    price: '€1',
     tags: 'AU | Bottle',
   },
   {
